@@ -1,0 +1,6 @@
+nltk
+transformers
+pandas
+numpy
+matplotlib
+seaborn
