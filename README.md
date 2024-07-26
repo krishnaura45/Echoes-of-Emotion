@@ -2,6 +2,10 @@
 
 **Echoes of Emotion** is a comprehensive project aimed at analyzing the sentiment of Amazon food reviews using various techniques, including VADER and a fine-tuned pretrained RoBERTa model. This project processes a large dataset of customer reviews, applies text preprocessing techniques, and compares the performance of different models to classify reviews into three sentiment categories: positive, negative, and neutral.
 
+## Dataset
+
+Visit here to download the dataset: [AFFR Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
+
 ## Features
 
 ### Data Processing
